@@ -4,12 +4,12 @@
 
 <h2 align="left">
  <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Gangadhar Benni, Full Stack Web Developer :computer:<br>
   <br>
   <br>
-  <br>
-  <br>
+  <br/>
+  <br/>
     <img align="right" alt="Coder GIF" height=250 width=300 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
     <!-- <img align="right" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width="500" height="350"/> -->
  </abc>
@@ -23,7 +23,7 @@
 
 - 👯 I’m looking to collaborate on any opensource <br/>
 
-- 💬 Ask me about Javascript/Typescript/Nodejs/React/Express/Nextjs/
+- 💬 Ask me about Javascript/Typescript/Nodejs/React/Express/Nextjs/<br>
                   Angular/Python/Django <br/>
 
 - 📫 How to reach me: bennigangadhar@gmail.com/gangwork7@gmail.com <br/>
