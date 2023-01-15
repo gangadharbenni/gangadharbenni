@@ -13,12 +13,12 @@
 </h2>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
-- 🔭 I’m currently working on something cool 😉
-- 🌱 I’m currently learning Cloud Technologies and K8S
-- 👯 I’m looking to collaborate on any opensource
-- 💬 Ask me about Javascript/Typescript/Nodejs/React/Express/Nextjs/Angular/Python/Django
-- 📫 How to reach me: bennigangadhar@gmail.com/gangwork7@gmail.com
-- ⚡ Fun fact: Anytime is teatime :coffee:.
+- 🔭 I’m currently working on something cool 😉 <br/>
+- 🌱 I’m currently learning Cloud Technologies and K8S <br/>
+- 👯 I’m looking to collaborate on any opensource <br/>
+- 💬 Ask me about Javascript/Typescript/Nodejs/React/Express/Nextjs/Angular/Python/Django <br/>
+- 📫 How to reach me: bennigangadhar@gmail.com/gangwork7@gmail.com <br/>
+- ⚡ Fun fact: Anytime is teatime :coffee:.<br/>
 
 📌 Here's a link to my [Portfolio]()
 
