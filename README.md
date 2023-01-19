@@ -23,7 +23,7 @@
   Javascript / Typescript / Nodejs / React / Nextjs / Angular / Python<br/>
 
 - 📫 How to reach me <br/>
-  bennigangadhar@gmail.com / gangwork7@gmail.com <br/>
+  gangwork7@gmail.com <br/>
 
 - ⚡ Fun fact : Anytime is teatime  :coffee: <br/><br/>
 
